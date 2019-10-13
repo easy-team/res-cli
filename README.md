@@ -13,7 +13,7 @@ Node.js >= 8.0.0 required.
 ## Features
 
 - ✔︎ Res Application Development, such as `res dev`, `res start`, `res build`, `res lang`
-- ✔︎ Build with Webpack, such as `res build`, `res build --server`, `res build --speed`, `ves build --size`
+- ✔︎ Build with Webpack, such as `res build`, `res build --server`, `res build --speed`, `res build --size`
 - ✔︎ Common Development Commands, such as `res open`, `res server`
 
 ## QuickStart
