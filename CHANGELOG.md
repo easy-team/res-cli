@@ -1,3 +1,8 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/easy-team/res-cli/compare/1.0.1...2.0.0) (2020-02-08)
+
+
+
 <a name="1.0.1"></a>
 ## [1.0.1](https://github.com/easy-team/res-cli/compare/1.0.0...1.0.1) (2019-10-17)
 
