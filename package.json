@@ -1,6 +1,6 @@
 {
   "name": "@easy-team/res-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Node React Web Framework CLI",
   "bin": {
     "res": "bin/cli.js"
@@ -23,7 +23,7 @@
     "egg-bin": "^4.13.2",
     "egg-scripts": "^2.11.0",
     "egg-webpack": "^4.4.7",
-    "egg-webpack-react": "^2.0.0",
+    "egg-webpack-react": "^3.0.0",
     "eslint-config-egg": "^5.1.1",
     "eslint-plugin-react": "^7.1.0",
     "imagemin-webpack-plugin": "^2.4.2",
